@@ -73,7 +73,7 @@ def home():
                 <p class="mt-2 text-lg font-semibold text-pink-600">Florzinha</p>
             </div>
             <div class="w-full sm:w-1/3 p-2 flex flex-col items-center">
-                <img src="/static/images/foto3.jpg" alt="Lindinha" class="rounded-lg shadow-md w-48 h-48 object-cover transform transition-transform duration-300 hover:scale-105" onerror="this.onerror=null;this.src='https://placehold.co/192x192/9999ff/ffffff?text=Lindinha';">
+                <img src="/static/images/foto3.jpeg" alt="Lindinha" class="rounded-lg shadow-md w-48 h-48 object-cover transform transition-transform duration-300 hover:scale-105" onerror="this.onerror=null;this.src='https://placehold.co/192x192/9999ff/ffffff?text=Lindinha';">
                 <p class="mt-2 text-lg font-semibold text-blue-600">Lindinha</p>
             </div>
             <div class="w-full sm:w-1/3 p-2 flex flex-col items-center">
